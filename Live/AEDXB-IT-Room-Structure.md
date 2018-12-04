@@ -5,4 +5,4 @@ This Document displays a diagram of the server room physical structure at the AE
 None.
 
 # Server Diagram
-![FileDiagram](./Media/AEDXBInfrastructure.PNG)
+![FileDiagram](./Media/AEDXBInfrastructure.png)
