@@ -4,4 +4,4 @@
 None.
 
 # Server Diagram
-(./Media/AEDXBInfrastructure.PNG)
+![FileDiagram](./Media/AEDXBInfrastructure.PNG)
