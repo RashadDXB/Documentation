@@ -1,4 +1,5 @@
-# This Document displays a diagram of the server room physical structure at the AEDXB site.
+# AEDXB IT Room Physical Structure
+This Document displays a diagram of the server room physical structure at the AEDXB site.
 
 ### Notes
 None.
