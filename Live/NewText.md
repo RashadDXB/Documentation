@@ -2,4 +2,4 @@
 
 ### document type
 key:
-*
+* [item]
