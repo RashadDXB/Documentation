@@ -1,5 +1,5 @@
 # this is my test document
 
-###document type
+### document type
 key:
 *
